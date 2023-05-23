@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITraining\RevitAPITrainig8.dll"</Assembly>
+		<AddInId>F77EF2F6-AE59-4776-8041-8281CCBB8A50</AddInId>
+		<FullClassName>RevitAPITrainig8.AddHole</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Расстановка отверстий</Text>
+	</AddIn>
+</RevitAddIns>
+
